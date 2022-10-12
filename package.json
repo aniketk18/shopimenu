@@ -6,7 +6,7 @@
     "node": "11.10.0",
     "npm": "6.7.0"
   },
-  "homepage": "https://aniketk18.github.io/counterapp",
+  "homepage": "https://aniketk18.github.io/shopimenu",
   "dependencies": {
     "bootstrap": "^4.6.0",
     "font-awesome": "^4.7.0",
